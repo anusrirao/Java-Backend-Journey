@@ -31,3 +31,8 @@ All projects will be deployed with architecture diagrams.
 - Feel free to ⭐ star or follow!
 
 Thanks for visiting!
+
+### Java Notes & Concepts
+Learning Core Java step-by-step with examples.
+
+- Introduction to Java & Basics ✓ (variables, data types, operators)
